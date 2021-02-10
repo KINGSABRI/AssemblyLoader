@@ -1,5 +1,5 @@
 # AssemblyLoader
-Here, I'm listing a various implementations of loading C# in memory in simple code for reference.
+Here, I'm listing various implementations of loading C# in memory in simple code for reference.
 
 ## Implementations/Techniques 
 ### Assembly.Load()
