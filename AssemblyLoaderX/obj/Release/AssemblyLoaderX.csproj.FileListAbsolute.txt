@@ -1,0 +1,7 @@
+\\192.168.100.100\Sharables\CSharp\AssemblyLoader\AssemblyLoaderX\bin\Release\AssemblyLoaderX.exe.config
+\\192.168.100.100\Sharables\CSharp\AssemblyLoader\AssemblyLoaderX\bin\Release\AssemblyLoaderX.exe
+\\192.168.100.100\Sharables\CSharp\AssemblyLoader\AssemblyLoaderX\bin\Release\AssemblyLoaderX.pdb
+\\192.168.100.100\Sharables\CSharp\AssemblyLoader\AssemblyLoaderX\obj\Release\AssemblyLoaderX.csprojAssemblyReference.cache
+\\192.168.100.100\Sharables\CSharp\AssemblyLoader\AssemblyLoaderX\obj\Release\AssemblyLoaderX.csproj.CoreCompileInputs.cache
+\\192.168.100.100\Sharables\CSharp\AssemblyLoader\AssemblyLoaderX\obj\Release\AssemblyLoaderX.exe
+\\192.168.100.100\Sharables\CSharp\AssemblyLoader\AssemblyLoaderX\obj\Release\AssemblyLoaderX.pdb
